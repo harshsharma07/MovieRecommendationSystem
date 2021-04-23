@@ -1,0 +1,8 @@
+Recommender systems are information filtering tools that aspire to 
+predict the rating for users and items, predominantly from big data 
+to recommend their likes. Movie recommendation systems provide a mechanism 
+to assist users in classifying users with similar interests.
+Recommender systems help the users to get personalized recommendations, 
+helps users to take correct decisions in their online transactions,
+ increase sales and redefine the users web browsing experience, retain the customers, 
+enhance their shopping experience. ... Recommendation engines provide personalization.

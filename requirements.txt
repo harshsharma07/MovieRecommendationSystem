@@ -1,0 +1,9 @@
+REQUIREMENTS
+python 3.6
+pip3
+virtualenv
+SETUP TO RUN
+Download zip file to your local machine
+Extract the zip file
+Open terminal/cmd promt
+Goto that Path

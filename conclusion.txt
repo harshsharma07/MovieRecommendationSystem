@@ -1,0 +1,15 @@
+3. CONCLUSIONS
+Movie recommendation systems which are existing have
+poor efficiency due to which movies are suggested in view of
+aspects for example - movie rated & evaluated by the User.
+They have almost same viewing tastes, by means of data
+mining and insisting movies based on juncture of the three
+methods mentioned above that is - User Based Collaborative
+filtering, Content-based algorithm & data mining because of
+which the user will not only be recommended movies but
+this scheme also delivers the user with additionally
+advanced and sophisticated endorsements as movies which
+have a poor rating score in any of the Movie features
+produced based on data mining will be refined out during
+the significant allocation platform of the expected three way
+hybrid movie recommendation system.

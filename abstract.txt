@@ -1,0 +1,12 @@
+Abstract - Now-a-days recommender systems areused in our
+day to day life. Yet, they are far from perfection. In this project,
+we will try to understand the various types of recommendation
+systems also comparing their output with other smaller
+datasets. We will be trying to develop a scalable model to
+perform statistics. We commence by developing and
+comparing the different kinds of prototypes on a smaller
+dataset of 1000 ratings. Then, we try to gauge the system so
+that it is able to handle 200 ratings by using MS SQL server.
+We come to know that for a concise dataset, implementing
+user-based collaborative filtering results with better and
+efficient outputs.

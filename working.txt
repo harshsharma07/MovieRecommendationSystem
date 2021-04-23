@@ -1,0 +1,32 @@
+2. WORKING
+The movie recommendation system basically works by
+providing suggestions to the users by using the two
+renowned algorithms explained above. This movie
+recommendation system recommends movies to a user or
+client by evaluating IMDB ratings. The software and
+language which we have used for designing our interface and
+front end is Visual Basic Asp.Net. For creating database, we
+have used SQL Server since it is convenient.
+This system collaborates with IMDB ratings and displays a
+list of movies which are highly rated by a user based on
+category of the movie. This approach asks the user to
+provide 2 inputs –
+1. Category of the movie (for e.g. comedy)
+2. Year in which the movie is released (for e.g. 2016)
+The algorithm segregates the list of movies from the dataset
+according to the inputs provided by user and finally displays
+the list of movies. The algorithm compares the inputs with
+the traits of the dataset and formulates the list. A user may
+select more than one category according to his fancies. A
+bright feature of allowing the user to rate movies has
+enhanced the beauty of this recommender system. This is
+achieved by using collaborative filtering approach, wherein
+the system will provide recommendations to other likeminded users which have the same taste.
+Example-User XYZ watches Movie “Bajirao Mastani” of
+category “Romance” (1 movie may fall in more than one
+category) and rates 8.5/10 (8.5 is considered to be a good
+rating). A like-minded person which has the same taste and
+is searching for the same category, then he may receive
+“Bajirao Mastani” as one of the suggestions. The only
+problem in this prototype is that a user can’t upload/view
+movies online on this website

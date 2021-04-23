@@ -1,0 +1,44 @@
+A recommendation system is a type of information filtering
+system which challenges to assume the priorities of a user,
+and make recommendations on the basis of user’s priorities.
+Huge range of applications of recommendation systems are
+provided to the user. The popularity of recommendations
+systems have gradually increased and are recently
+implemented in almost all online platforms that people use.
+The content of such system differs from films, podcasts,
+books and videos, to colleagues and stories on social media,
+to commodities on e-commerce websites, to people on
+commercial and dating websites. Often, these systems are
+able to retrieve and filter data about a user’s preferences,
+and can use this intel to advance their suggestions in the
+upcoming period. For an instance, Twitter can analyze your
+collaboration with several stories on your wall so as to
+comprehend what types of stories please you. Many a times,
+these systems can be improvised on the basis of activities of
+a large number of people. For example, if Flipkart notices
+that a large number of users who buy the modern laptop also
+buy a laptop bag. They can commend the laptop bag to a new
+customer who has just added a laptop to his cart. Due to the
+advances in recommender systems, users continuously
+expect good results. They have a low edge for services that
+are not able to make suitable recommendations. If a music
+streaming application is not able to foresee and play song
+that the user prefers, then the user will just stop using it.
+This has led to a high importance by technical corporations
+on refining their recommendation structures. However, the
+problem is more complicated than it appears.
+Every user has different likes and dislikes. In addition, even
+the taste of a single customer can differ depending on a large
+number of aspects, such as mood, season, or type of activity
+the user is performing. For an instance, the type of music one would prefer to listen during exercising varies critically from
+the type of music he would listen to while preparing dinner.
+They must discover new areas to determine more about the
+customer, whilst still determining almost all of what is
+already known about of the customer. Two critically
+important methods are widely used for recommender
+systems. One is content-based filtering, where we attempt to
+shape the users preferences using data retrieved, and
+suggest items based on that profile. The other is
+collaborative filtering, where in we try to cluster alike users
+together and use data about the group to make
+recommendations to the customer. 
